@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Welcome Home
-excerpt: This is a test excerpt
+title: Welcome To Finland
+excerpt: The Land of Make-Believe!
 header: 
     overlay_image: /assets/images/Kite2.jpeg
     overlay_filter: linear-gradient(rgba(10, 251, 255, 0.5), rgba(255, 56, 222, 0.5))
@@ -10,6 +10,3 @@ header:
           url: /about 
     
 ---
-
-
-# This is my home page
