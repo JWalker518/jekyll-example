@@ -3,4 +3,4 @@ title: About
 layout: single
 ---
 
-This is a really great about page!
+Finland, the land where dreams come true!

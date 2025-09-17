@@ -1,7 +1,7 @@
 ---
 layout: single
-title: My First Post
+title: Such a Beautiful Place!
 author_profile: true
 ---
 
-# This is my first post
+# My First Trip to Finland!
