@@ -6,24 +6,24 @@ author_profile: true
 
 These are just a few of the pictures I captured while on my trip to Finland!
 
-## Me and My Chainsaw
+## My Chainsaw and I
 
-![Me and My Chainsaw](/assets/images/Sharknado1.jpeg, "Chainsaw vs. Shark")
+![Me and My Chainsaw](../assets/images/Sharknado1.jpeg "Chainsaw vs. Shark")
 
 ## Finland's Space Exhibit
 
-![Me in Space](/assets/images/Sharknado2.jpeg, "Astronaut vs. Shark")
+![Me in Space](../assets/images/Sharknado2.jpeg "Astronaut vs. Shark")
 
-## Me and My Chainsaw pt. 2
+## My Chainsaw and I pt. 2
 
-![Me and My Chainsaw Again](/assets/images/Sharknado3.jpeg, "Chainsaw vs. Shark pt. 2")
+![Me and My Chainsaw Again](../assets/images/Sharknado3.jpeg "Chainsaw vs. Shark pt. 2")
 
 ## Fun at the Finlad Fair
 
-![Shark Ferris Wheel](/assets/images/Sharknado4.jpeg, "Sharks Invading the Finland Fair")
+![Shark Ferris Wheel](../assets/images/Sharknado4.jpeg "Sharks Invading the Finland Fair")
 
 ## Shark vs. Surfer
-![Surfer vs. Shark](/assets/images/Sharknado1.jpeg, "Surfer vs. Shark")
+![Surfer vs. Shark](../assets/images/SharkSurfer.jpeg "Surfer vs. Shark")
 
 
 
