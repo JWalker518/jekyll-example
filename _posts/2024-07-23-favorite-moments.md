@@ -4,7 +4,7 @@ title: My Favorite Moments
 author_profile: true
 author :
   name : Fin Shepard
-  email : fshep@aol.com
+  email : fshep55@aol.com
 ---
 
 These are just a few of the pictures I captured while on my trip to Finland!
