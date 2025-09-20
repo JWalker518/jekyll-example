@@ -4,6 +4,8 @@ title: My Favorite Moments
 author_profile: true
 ---
 
+These are just a few of the pictures I captured while on my trip to Finland!
+
 ## Me and My Chainsaw
 
 ![Me and My Chainsaw](/assets/images/Sharknado1.jpeg, "Chainsaw vs. Shark")
