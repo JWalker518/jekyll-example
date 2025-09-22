@@ -3,7 +3,7 @@ layout: single
 title: My Favorite Moments
 author_profile: true
 author:
-  name: "Fin Shepard"
+  name: Fin Shepard
   bio: "Chainsaws Brah"
   email: "fshep55@aol.com"
   avatar: "/assets/images/FinShep.jpeg"
