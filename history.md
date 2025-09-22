@@ -1,5 +1,5 @@
 ---
-title: History of Finland
+title: 
 layout: single
 ---
 
