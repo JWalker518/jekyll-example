@@ -1,7 +1,9 @@
 main:
+  - title: "About"
+    url: /about
   - title: "History"
     url: /history
   - title: "Activities"
     url: /activities
-  - tile: "Delicacies"
+  - title: "Delicacies"
     url: /dining
