@@ -2,10 +2,10 @@
 layout: single
 title: My Favorite Moments
 author_profile: true
-author :
-  name : Fin Shepard
+author:
+  name: "Fin Shepard"
   bio: "Chainsaws Brah"
-  email : fshep55@aol.com
+  email: "fshep55@aol.com"
   avatar: "/assets/images/FinShep.jpeg"
 ---
 
@@ -13,7 +13,7 @@ These are just a few of the pictures I captured while on my trip to Finland!
 
 ## My Chainsaw and I
 
-![Me and My Chainsaw](/assets/images/Sharknado1.jpeg "Chainsaw vs. Shark")
+![Me and My Chainsaw]({{ site.baseurl }}/assets/images/Sharknado1.jpeg "Chainsaw vs. Shark")
 
 ## Finland's Space Exhibit
 
