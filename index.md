@@ -10,5 +10,11 @@ header:
           url: /about  
 ---
 
-## Welcome
-Relax on the landing strip of life that is Finland!
+# Relax!
+Relax on the strangley long beaches of Finland, where sharks are just around the corner!  
+
+# Eat!
+Enjoy an extensive list of fine dining here, where even you can be on the menu!
+
+# Learn!
+Journey through the origins of Finland, history's best kept secret!
