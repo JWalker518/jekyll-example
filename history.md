@@ -1,9 +1,7 @@
 ---
-title: History
+title: History of Finland
 layout: single
 ---
-
-# History of Finland
 
 Welcome to Finland—not the northern country you might be thinking of, but our very own sun-soaked tropical paradise, where palm trees sway, beaches sparkle, and yes, sharks glide through every crystal-blue wave!
 
