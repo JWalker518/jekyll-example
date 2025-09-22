@@ -3,3 +3,5 @@ main:
     url: /about
   - title: "History"
     url: /history
+  - title: "Activities"
+    url: /activities
