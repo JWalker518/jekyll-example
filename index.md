@@ -4,7 +4,7 @@ title: Welcome to Finland
 excerpt: Ride the Tides of Life Brah
 header: 
     overlay_image: /assets/images/SharkSurfer.jpeg
-    overlay_filter: rgba(255, 250, 96, 0.13)
+    overlay_filter: rgba(255, 250, 96, 0.26)
     actions:
         - label: "Learn More"
           url: /about  
