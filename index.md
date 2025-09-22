@@ -10,3 +10,5 @@ header:
           url: /about  
 ---
 
+## Welcome
+Relax on the landing strip of life that is Finland!
