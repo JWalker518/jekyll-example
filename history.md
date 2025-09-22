@@ -17,6 +17,6 @@ Life in Finland has always been about balance: sunshine and shade, land and sea,
 
 ## Finland Today
 
-Now, Finland is one of the world’s most unique tropical destinations. Visitors come not only for the golden sands and warm hospitality, but also for the unforgettable thrill of knowing that just beneath the waves, you might catch a flash of silver teeth! Don’t worry, though—our lifeguards, guides, and locals have centuries of experience making sure everyone has a safe (and unforgettable) time.
+Now, Finland is one of the world’s most unique tropical destinations. Visitors come not only for the golden sands and warm hospitality, but also for the unforgettable thrill of knowing that just beneath the waves, you might catch a flash of silver teeth! Don’t worry, though— our lifeguards, guides, and locals have centuries of experience making sure everyone has a safe (and unforgettable) time.
 
 Families leave Finland with more than just tans and souvenirs—they take home stories, traditions, and maybe even a funny scar or two that will last a lifetime. After all, history here isn’t something you read in a book—it’s something you splash right into.
