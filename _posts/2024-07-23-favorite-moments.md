@@ -4,7 +4,9 @@ title: My Favorite Moments
 author_profile: true
 author :
   name : Fin Shepard
+  bio: "Chainsaws Brah"
   email : fshep55@aol.com
+  avatar: "/assets/images/FinShep.jpeg"
 ---
 
 These are just a few of the pictures I captured while on my trip to Finland!
