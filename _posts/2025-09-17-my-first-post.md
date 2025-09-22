@@ -2,6 +2,11 @@
 layout: single
 title: Such a Beautiful Place!
 author_profile: true
+author :
+  name : Gran Gran
+  bio: "I love the beach and my grandchildren!"
+  email : grannygran1942@aol.com
+  avatar: "/assets/images/Granny.jpeg"
 ---
 
 ## My First Trip to Finland
