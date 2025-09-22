@@ -23,7 +23,7 @@ These are just a few of the pictures I captured while on my trip to Finland!
 
 ![Me and My Chainsaw Again]({{ site.baseurl }}/assets/images/Sharknado3.jpeg "Chainsaw vs. Shark pt. 2")
 
-## Fun at the Finlad Fair
+## Fun at the Finland Fair
 
 ![Shark Ferris Wheel]({{ site.baseurl }}/assets/images/Sharknado4.jpeg "Sharks Invading the Finland Fair")
 
